@@ -2,7 +2,11 @@
 
 ![Logo](img/Logo%20.png)
 
-Este repositorio contiene el código necesario para la creación y gestión de una base de datos utilizando MySQL. A continuación, se detalla la estructura del proyecto y los pasos para utilizarlo.
+Este repositorio contiene el código necesario para la creación y gestión de una base de datos utilizando MySQL.
+
+En la carpeta csv se tiene todos los arhivos para realizar la carga de los datos de la base de datos.
+
+A continuación, se detalla la estructura del proyecto y los pasos para utilizarlo.
 
 ## Contenido
 
